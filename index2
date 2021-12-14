@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+    <title>The title of the document</title>
+<style>
+  body {
+    background-image: url("https://web.archive.org/web/20091027153429/http://geocities.com/canada90tw/victoria/vicpicture/vicback.gif");
+    background-color: #8ebf42;
+  }
+</style>
+    <style>
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      table,
+      th,
+      td {
+        border: 1px solid blue;
+      }
+      thead {
+        background-color: #white;
+        color: #ffffff;
+      }
+      th {
+        text-align: center;
+        height: 50px;
+      }
+      tbody tr:nth-child(odd) {
+        background: #ffffff;
+      }
+      tbody tr:nth-child(even) {
+        background: #f4f4f4;
+      }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <th><b>Sechste Szene</b></th>
+          <th>...</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Charis. Sosias.</td>
+          <td>.</td>
+        </tr>
+        <tr>
+          <td><b>Charis</b> für sich.</td>
+          <td>..</td>
+        </tr>
+        <tr>
+          <td> Was hast du da gehört, Unselige?</td>
+          <td>..</td>
+        </tr>
+        <tr>
+          <td>Olymp'sche Götter wären es gewesen?</td>
+          <td>...</td>
+        </tr>
+        <tr>
+          <td>Und der sich für Sosias hier mir gibt,</td>
+          <td>......</td>
+        </tr>
+        <tr>
+          <td>Der wäre einer der Unsterblichen,</td>
+          <td>....</td>
+        </tr>
+        <tr>
+          <td>Apollon, Hermes, oder Ganymed?</td>
+          <td>..............</td>
+        </tr>
+        <tr>
+          <td><b>SOSIAS</b> für sich.</td>
+          <td>.....</td>
+        </tr>
+        <tr>
+          <td>Der Blitzgott! Zeus soll es gewesen sein.</td>
+          <td>...................................</td>
+        </tr>
+        <tr>
+          <td><b>CHARIS</b> für sich.</td>
+          <td>.........</td>
+        </tr>
+        <tr>
+          <td>Pfui, schäme dich, wie du dich aufgeführt.</td>
+          <td>...........</td>
+        </tr>
+        <tr>
+          <td><b>SOSIAS</b> für sich.</td>
+          <td>..........</td>
+        </tr>
+        <tr>
+          <td>Mein Seel, er war nicht schlecht bedient</td>
+          <td>..........</td>
+        </tr>
+        <tr>
+          <td>Ein Kerl, der seinen Mann stund, und sich</td>
+          <td>......</td>
+        </tr>
+        <tr>
+          <td>Für seinen Herrn schlug, wie ein Panthertier.</td>
+          <td>..........</td>
+        </tr>
+        <tr>
+          <td><b>CHARIS</b> für sich.</td>
+          <td>........</td>
+        </tr>
+        <tr>
+          <td>Wer weiß auch, irr ich nicht. Ich muß ihn prüfen</td>
+          <td>......</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Center an Image</h2>
+
+
+<img src="https://web.archive.org/web/20090830081851/http://geocities.com/Hollywood/Picture/5684/pegasus2.gif" alt="Paris" style="width:50%;">
+
+  </body>
+</html>
